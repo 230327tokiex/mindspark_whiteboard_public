@@ -17,17 +17,6 @@
 - 手書き機能でアイデアをすばやくスケッチ（ベータ版）
 - ローカルストレージによるデータ保存
 
-## 技術スタック
-
-- React
-- TypeScript
-- Tailwind CSS
-- Vite (ビルドツール)
-- Perfect Freehand (手書き機能)
-- Lucide React (アイコン)
-- React DnD (ドラッグ＆ドロップ)
-- React Resizable (要素のリサイズ)
-- React Draggable (要素のドラッグ)
 
 ## 使い方
 
@@ -59,6 +48,21 @@
 - 手書きの色：描画色を変更
 - データのセーブ・ロード・削除：作業内容の管理
 
+## 今後の開発予定
+
+- AI チャットモード（開発中）
+
+## 技術スタック
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite (ビルドツール)
+- Perfect Freehand (手書き機能)
+- Lucide React (アイコン)
+- React DnD (ドラッグ＆ドロップ)
+- React Resizable (要素のリサイズ)
+- React Draggable (要素のドラッグ)
 
 
 ## 履歴
